@@ -46,16 +46,18 @@
 
 * It is the measure of total space consumed by the program for its complete execution.
   
-   1. **constant** -> O(1) ex :- a=10
-    * Ex : 
+   1. **constant** -> O(1)
+  
+    * Ex : a=10
     * It is the measure of space consumed by one value.
   
    2. **Linear** -> O(n)
    
-    * Ex:- l=[10,20,30]  
-    * It is the measure of space consumed by linear data or collection data.
+      * Ex:- l=[10,20,30]  
+      * It is the measure of space consumed by linear data or collection data.
      
    3. **Auxiliary** -> O(1) or O(n)
+      
    * Ex : out =[] -> O(1), out=[10,20,30] -> O(n)
    * It is the temporary space consumed by a temporary variable.
 
