@@ -4,7 +4,7 @@
 
 1. [Time complexity](#time-complexity)
 2. [Space complexity](#space-complexity)
-3. [Searching Algorithm](./searching-algorithm)
+3. [Searching Algorithm](#searching-algorithm)
    
 ## Data Structures
 
