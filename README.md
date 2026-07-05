@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1. [Time complexity](#time-comlexity)
-2. [Space complexity](#space-comlexity)
+1. [Time complexity](#time-complexity)
+2. [Space complexity](#space-complexity)
 
 ## Data Structures
 
@@ -72,7 +72,16 @@
 
 * It is a searching algorithm which works on the principle called sequential principle.
 * It will traverse through the collection to find the targeted element.
-* *Ex :- Source code : [linearsearch.py](./linearseach.py)*
+* *Ex :- Source code : [linearsearch.py](./linearsearch.py)*
+
+      def linear_search(col,key):
+      for i in range(len(col)):
+          if col[i]==key:
+              return i
+      return -1
+      col=eval(input("Enter list:"))
+      key=int(input("Enter key val:"))
+      print(linear_search(col,key))
 
   
   
