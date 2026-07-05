@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-1. [Time complexity](#time-complexity
+1. [Time complexity](#time-complexity)
 2. [Space complexity](#space-complexity)
 3. [Searching Algorithm](./searching-algorithm)
-4. 
+   
 ## Data Structures
 
 * **Data** - It is a rawfact (useless and useful or processed and unprocessed content)
