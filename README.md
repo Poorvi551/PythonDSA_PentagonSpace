@@ -2,9 +2,10 @@
 
 ## Table of Contents
 
-1. [Time complexity](#time-complexity)
+1. [Time complexity](#time-complexity
 2. [Space complexity](#space-complexity)
-
+3. [Searching Algorithm](./searching-algorithm)
+4. 
 ## Data Structures
 
 * **Data** - It is a rawfact (useless and useful or processed and unprocessed content)
@@ -87,6 +88,11 @@
       col=eval(input("Enter list:"))
       key=int(input("Enter key val:"))
       print(linear_search(col,key))
+
+## 2. Binary Search
+
+* It is a searching algorithm which works on sorted collection by d**l ,
+* *Ex :- Source code :-[binarysearch.py](./binnarysearch.py)*
 
   
   
